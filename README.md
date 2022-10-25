@@ -1,9 +1,5 @@
 - 👋 Hi, I’m @datastructureswilldrivemecrazy
 - 👀 I’m interested in collaborative projects 
-- 🌱 I’m currently learning cyber security/Penetration testing and Python 
-- 📫 How to reach me : email : bishaldazaisen@gmail.com  Instagram : _ nerdeku._
-
-<!---
-datastructureswilldrivemecrazy/datastructureswilldrivemecrazy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🌱 I’m currently learning cyber security/Penetration testing and Python. I am pursuing my bachelor's degree as well. 
+- 📫 How to reach me : email : bishaldazaisen@gmail.com  Instagram : _ nerdeku._ My twitter username is @BishalS28656009
+- Looking for internships to hone my skills and get a better understanding of the world of coding. 
