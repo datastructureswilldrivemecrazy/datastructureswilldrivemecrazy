@@ -1,7 +1,6 @@
+![Hey I’m Bishal](https://github.com/datastructureswilldrivemecrazy/datastructureswilldrivemecrazy/assets/109077896/7c616320-4546-4a53-99f8-6beafde73ce1)
 <h1 align="center">Hi 👋, I'm Bishal Sen</h1>
-![Banner](C:\Users\bisha\Downloads\Hey I’m Bishal.jpg)  
 <h3 align="center">A passionate student from India. Currently pursuing Bachelors of Science in Computer Science and Mathematics.</h3>
-
 - 🔭 I’m currently working on **my projects which includes Java, JS with various front end and back end modules.**
 
 - 🌱 I’m currently learning **Web development with Node.js and Express**
